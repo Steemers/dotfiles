@@ -9,3 +9,5 @@ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 cp ~/dotfiles/.p10k.zsh ~/
 cp ~/dotfiles/.zshrc ~/
 cp ~/dotfiles/.gitconfig ~/
+
+sudo apt install tldr
