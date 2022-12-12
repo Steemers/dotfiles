@@ -11,3 +11,4 @@ cp ~/dotfiles/.zshrc ~/
 cp ~/dotfiles/.gitconfig ~/
 
 sudo apt install tldr
+sudo apt install gobuster
