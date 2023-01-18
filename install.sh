@@ -12,3 +12,4 @@ cp ~/dotfiles/.gitconfig ~/
 
 sudo apt install tldr
 sudo apt install gobuster
+sudo apt install peass
